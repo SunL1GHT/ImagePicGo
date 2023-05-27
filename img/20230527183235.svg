@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="569" viewBox="0 0 569 423" height="423">
+    <defs/>
+    <g transform="translate(-131.00,-50.50)">
+        <g transform="translate(151.00,114.00)" id="shape1">
+            <path fill-rule="nonzero" stroke="#ceeab0" d="M151.0,75.0L151.0,.0L.0,.0L.0,75.0L151.0,75.0z" fill="#ceeab0"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:16.00pt;font-weight:bold">
+                <tspan y="30.5" x="44.0">应用层</tspan>
+                <tspan y="57.9" x="15.4">HTTP、RPC</tspan>
+            </text>
+        </g>
+        <g transform="translate(151.00,208.50)" id="shape2">
+            <path fill-rule="nonzero" stroke="#ffc9c9" d="M151.0,75.0L151.0,.0L.0,.0L.0,75.0L151.0,75.0z" fill="#ffc0cb"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:16.00pt;font-weight:bold">
+                <tspan y="30.5" x="44.0">传输层</tspan>
+                <tspan y="57.9" x="26.7">TCP/UDP</tspan>
+            </text>
+        </g>
+        <g transform="translate(151.00,303.00)" id="shape3">
+            <path fill-rule="nonzero" stroke="#ffffcd" d="M151.0,75.0L151.0,.0L.0,.0L.0,75.0L151.0,75.0z" fill="#ffffcd"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:16.00pt;font-weight:bold">
+                <tspan y="30.5" x="44.0">网络层</tspan>
+                <tspan y="57.9" x="65.0">IP</tspan>
+            </text>
+        </g>
+        <g transform="translate(151.00,397.50)" id="shape4">
+            <path fill-rule="nonzero" stroke="#b4f5fe" d="M151.0,75.0L151.0,.0L.0,.0L.0,75.0L151.0,75.0z" fill="#b4f5fe"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:16.00pt;font-weight:bold">
+                <tspan y="30.5" x="23.1">网络接口层</tspan>
+                <tspan y="57.9" x="49.3">MAC</tspan>
+            </text>
+        </g>
+        <g transform="translate(132.00,51.50)" id="shape5">
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:20.00pt">
+                <tspan y="53.0" x="14.6">四层网络模型</tspan>
+            </text>
+        </g>
+        <g transform="translate(321.00,132.50)" id="shape6">
+            <path fill-rule="nonzero" stroke="#cfe9d8" d="M57.0,27.0L57.0,11.0C57.0,4.9,52.1,.0,46.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L46.0,38.0C52.1,38.0,57.0,33.1,57.0,27.0z" fill="#cfe9d8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:12.00pt">
+                <tspan y="24.7" x="12.4">消息</tspan>
+            </text>
+        </g>
+        <g transform="translate(321.00,227.00)" id="shape7">
+            <path fill-rule="nonzero" stroke="#cfe9d8" d="M57.0,27.0L57.0,11.0C57.0,4.9,52.1,.0,46.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L46.0,38.0C52.1,38.0,57.0,33.1,57.0,27.0z" fill="#cfe9d8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="12.4">消息</tspan>
+            </text>
+        </g>
+        <g transform="translate(321.00,321.50)" id="shape8">
+            <path fill-rule="nonzero" stroke="#cfe9d8" d="M57.0,27.0L57.0,11.0C57.0,4.9,52.1,.0,46.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L46.0,38.0C52.1,38.0,57.0,33.1,57.0,27.0z" fill="#cfe9d8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="12.4">消息</tspan>
+            </text>
+        </g>
+        <g transform="translate(321.00,416.00)" id="shape9">
+            <path fill-rule="nonzero" stroke="#cfe9d8" d="M57.0,27.0L57.0,11.0C57.0,4.9,52.1,.0,46.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L46.0,38.0C52.1,38.0,57.0,33.1,57.0,27.0z" fill="#cfe9d8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="12.4">消息</tspan>
+            </text>
+        </g>
+        <g transform="translate(397.00,227.00)" id="shape10">
+            <path fill-rule="nonzero" stroke="#ffc9c9" d="M94.0,27.0L94.0,11.0C94.0,4.9,89.1,.0,83.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L83.0,38.0C89.1,38.0,94.0,33.1,94.0,27.0z" fill="#ffc9c9"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="16.3">TCP头部</tspan>
+            </text>
+        </g>
+        <g transform="translate(397.00,321.50)" id="shape11">
+            <path fill-rule="nonzero" stroke="#ffc9c9" d="M94.0,27.0L94.0,11.0C94.0,4.9,89.1,.0,83.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L83.0,38.0C89.1,38.0,94.0,33.1,94.0,27.0z" fill="#ffc9c9"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="16.3">TCP头部</tspan>
+            </text>
+        </g>
+        <g transform="translate(397.00,416.00)" id="shape12">
+            <path fill-rule="nonzero" stroke="#ffc9c9" d="M94.0,27.0L94.0,11.0C94.0,4.9,89.1,.0,83.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L83.0,38.0C89.1,38.0,94.0,33.1,94.0,27.0z" fill="#ffc9c9"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="16.3">TCP头部</tspan>
+            </text>
+        </g>
+        <g transform="translate(510.00,321.50)" id="shape13">
+            <path fill-rule="nonzero" stroke="#ffe8cd" d="M76.0,27.0L76.0,11.0C76.0,4.9,71.1,.0,65.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L65.0,38.0C71.1,38.0,76.0,33.1,76.0,27.0z" fill="#fce0c8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="30.7">IP</tspan>
+            </text>
+        </g>
+        <g transform="translate(510.00,414.50)" id="shape14">
+            <path fill-rule="nonzero" stroke="#ffe8cd" d="M76.0,27.0L76.0,11.0C76.0,4.9,71.1,.0,65.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L65.0,38.0C71.1,38.0,76.0,33.1,76.0,27.0z" fill="#fce0c8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="30.7">IP</tspan>
+            </text>
+        </g>
+        <g transform="translate(605.00,416.00)" id="shape15">
+            <path fill-rule="nonzero" stroke="#cbe3f8" d="M94.0,27.0L94.0,11.0C94.0,4.9,89.1,.0,83.0,.0L11.0,.0C4.9,.0,.0,4.9,.0,11.0L.0,27.0C.0,33.1,4.9,38.0,11.0,38.0L83.0,38.0C89.1,38.0,94.0,33.1,94.0,27.0z" fill="#cbe3f8"/>
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan y="24.7" x="11.9">MAC头部</tspan>
+            </text>
+        </g>
+        <g transform="translate(378.00,225.50)" id="shape16">
+            <text xml:space="preserve" style="fill:#000000;font-family:微软雅黑;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(378.00,318.50)" id="shape17">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2" style="font-family:微软雅黑">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(378.00,413.00)" id="shape18">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2" style="font-family:微软雅黑">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(491.00,318.50)" id="shape19">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2" style="font-family:微软雅黑">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(491.00,413.00)" id="shape20">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2" style="font-family:微软雅黑">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(586.00,413.00)" id="shape21">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold">
+                <tspan y="26.9" x="2.2" style="font-family:微软雅黑">+</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
